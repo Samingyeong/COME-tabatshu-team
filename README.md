@@ -110,7 +110,16 @@
   
 ## Conclusion
   - ### "타밭슈" 어플리케이션 및 3D프린터 활용한 간이 자전거 잠금해제 모듈 시연 영상
-    https://github.com/user-attachments/assets/29c12e63-c1c2-4c8a-bb54-0698997b7eb8
+      https://github.com/user-attachments/assets/72313975-42be-4b30-a727-5a4d56725468
+
+  - ### "타밭슈" 어플리케이션 세부기능 시연 영상 및 큐싱 기능 영상은 상단 폴더 참고 바람
+     #####관련이미지_Figma
+    ![image](https://github.com/user-attachments/assets/f0bb6e8f-b74f-4bd1-a8de-38e6c67bec8e)
+    ![image](https://github.com/user-attachments/assets/8a8da0d4-ac2f-41e3-b3ac-5bda9aa243f5)
+
+    
+
+
 
 
   - <br/><br/>
